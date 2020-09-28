@@ -18,6 +18,8 @@ const App = () => {
 			}
 
 			setDecimal(dec)
+		}else{
+			alert("Ops! digite somente 8 dígitos em binário")
 		}
 	}
 	
